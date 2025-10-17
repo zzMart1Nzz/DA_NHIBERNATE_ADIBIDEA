@@ -37,9 +37,9 @@ namespace ConsolaNHibernate
                     MySQLConfiguration.Standard
                         .ConnectionString(cs => cs
                             .Server("localhost")
-                            .Database("entrega2")
+                            .Database("daAdibidea")
                             .Username("root")
-                            .Password("1MG32025")
+                            .Password("1mg3")
                         )
                 )
                 .Mappings(m =>
